@@ -1,10 +1,8 @@
-- 👋 Hi, I’m Emee @ejpevents
-- 👀 I’m interested in bike stuff and being helpful
-- 🌱 I’m currently learning how to use github
-- 💞️ I’m looking to collaborate on stuff and things
-- 📫 How to reach me: emee at ejpevents dot com
+# Hi, I'm Emee Pumarega 👋
 
-<!---
-ejpevents/ejpevents is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I plan conferences, meetings, and events through **EJP Events**, and I've worked in the field for more than 25 years.
+
+- 🌱 I'm currently learning how to use GitHub.
+- 🚲 Outside of work, I'm interested in bikes.
+- 🤝 I'm open to collaborating on projects with other planners and builders.
+- 📫 Reach me at emee at ejpevents dot com.
